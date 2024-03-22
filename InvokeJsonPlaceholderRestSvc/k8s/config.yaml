@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: springboot-demo-config3
+data:
+  targetHostDNS: "jsonplaceholder.typicode.com"
+  targetMethodRelativePath: "albums"

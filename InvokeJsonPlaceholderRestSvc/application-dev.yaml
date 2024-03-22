@@ -1,0 +1,7 @@
+demo:
+  value: 6
+  targetHost: jsonplaceholder.typicode.com
+  targetMethodRelativePath: albums
+  hosts:
+    - https://www.example1.com
+    - https://www.example2.com
