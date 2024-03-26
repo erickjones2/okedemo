@@ -4,6 +4,7 @@ metadata:
   name: my-service
 spec:
   type: LoadBalancer
+  loadBalancerIP: 141.148.41.158
   ports:
   - port: 80
     targetPort: 8080
