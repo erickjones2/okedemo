@@ -49,7 +49,7 @@
 						}
 					}
 				},
-				"url": "http://141.148.41.158:80/queryService/queryLog"
+				"url": "http://141.148.6.230:80/queryService/queryLog"
 			},
 			"response": []
 		},
@@ -99,7 +99,7 @@
 						}
 					}
 				},
-				"url": "http://141.148.41.158:80/queryService/queryLog"
+				"url": "http://141.148.6.230:80/queryService/queryLog"
 			},
 			"response": []
 		},
@@ -149,7 +149,7 @@
 						}
 					}
 				},
-				"url": "http://141.148.41.158:80/queryService/queryLog"
+				"url": "http://141.148.6.230:80/queryService/queryLog"
 			},
 			"response": []
 		},
@@ -199,7 +199,7 @@
 						}
 					}
 				},
-				"url": "http://141.148.41.158:80/queryService/queryLog"
+				"url": "http://141.148.6.230:80/queryService/queryLog"
 			},
 			"response": []
 		}
